@@ -1,4 +1,4 @@
-# Stackblitz
+# Demo on Stackblitz
 
 https://stackblitz.com/github/ajinkyachavan/ng-d3-practise
 
